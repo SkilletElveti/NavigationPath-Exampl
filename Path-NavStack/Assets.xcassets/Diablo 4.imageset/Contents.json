@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "diablo-4-icin-on-siparis-fiyati-aciklandi-cikis-tarihi-ne156906_0.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

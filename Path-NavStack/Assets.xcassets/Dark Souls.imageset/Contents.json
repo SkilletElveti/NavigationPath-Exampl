@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "dark-souls-3-deluxe-edition-deluxe-edition-pc-game-steam-cover.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
